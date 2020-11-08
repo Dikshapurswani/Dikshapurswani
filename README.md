@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Diksha Purswani</h1>
 <h3 align="center">I am a Full stack developer, ready to explore new things!</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/diksha_purswani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="diksha_purswani" height="30" width="40" /></a>
